@@ -12,8 +12,7 @@ In this repo, we provide the following sources:
 * Codes: sources codes for replicating the results present in the following manuscript: 
 
   ```
-  Chong Wu, Multi-trait genome-wide analyses of the brain
-  imaging phenotypes in UK Biobank, Genetics, Under Revision.
+  Chong Wu, Multi-trait genome-wide analyses of the brain imaging phenotypes in UK Biobank, Genetics, Under Revision.
   ```
 
 

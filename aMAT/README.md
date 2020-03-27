@@ -5,7 +5,7 @@ aMAT is the software for our proposed method. It is computationally efficient an
 The users only prepare the following two inputs:
 
 * GWAS summary results (SNPs by traits), i.e., each row is the Z scores for a particular SNP of p traits of interest
-* Trait correlation matrix: We recommend using LD score regression to caluclate it (as also recommended by others)
+* Trait correlation matrix: We recommend using LD score regression to  calculate the correlation between traits, which is recommended by others.
 
 
 

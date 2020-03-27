@@ -14,7 +14,7 @@ In this repo, we provide the following sources:
 
 ### Support
 
-The [issue tickets at the GitHub repo](https://github.com/ChongWuLab/aMAT/issues) are the primary interface for bug reporting, suggesstions, and comments. Through this [issue tackets repo], previous issues can be searched.
+The [issue tickets at the GitHub repo](https://github.com/ChongWuLab/aMAT/issues) are the primary interface for bug reporting, suggestions, and comments. Through this [issue tackets repo](https://github.com/ChongWuLab/aMAT/issues), previous issues can be searched.
 
 #### Authors
 

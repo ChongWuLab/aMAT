@@ -5,7 +5,7 @@ aMAT is the software for our proposed method, termed adaptive Multi-trait Associ
 We only need to prepare the following two inputs:
 
 * GWAS summary results (SNPs by traits), i.e., each row is the Z scores for a particular SNP of p traits of interest. The order of traits should be the same as that in the trait correlation matrix.
-* Trait correlation matrix: We and others recommend using [https://github.com/bulik/ldsc LD score regression] to  calculate the correlation between traits. LD score regression takes many biases into account and yield a more accurate estimation oon the trait correlation matrix.
+* Trait correlation matrix: We and others recommend using (https://github.com/bulik/ldsc LD score regression) to  calculate the correlation between traits. LD score regression takes many biases into account and yield a more accurate estimation oon the trait correlation matrix.
 
 
 

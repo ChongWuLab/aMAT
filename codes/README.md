@@ -1,6 +1,6 @@
 # Codes
 
-Code for replicating all the results presented in the manuscript
+Codes for replicating all the results presented in the manuscript
 
 ## Real Data analysis
 

@@ -1,11 +1,11 @@
 # aMAT
 
-aMAT is the software for our proposed method. It is computationally efficient and only takes a few hours to get the whole genome results in a single core. It only takes a few minutes if we use multiple cores.
+aMAT is the software for our proposed method, termed adaptive Multi-trait Association Test (aMAT). It is computationally efficient and only takes a few hours to get the whole genome results in a single core. In other words, it takes a few minutes if we use 100 or more cores.
 
-The users only prepare the following two inputs:
+We only need to prepare the following two inputs:
 
-* GWAS summary results (SNPs by traits), i.e., each row is the Z scores for a particular SNP of p traits of interest
-* Trait correlation matrix: We recommend using LD score regression to  calculate the correlation between traits, which is recommended by others.
+* GWAS summary results (SNPs by traits), i.e., each row is the Z scores for a particular SNP of p traits of interest. The order of traits should be the same as that in the trait correlation matrix.
+* Trait correlation matrix: We and others recommend using [https://github.com/bulik/ldsc LD score regression] to  calculate the correlation between traits. LD score regression takes many biases into account and yield a more accurate estimation oon the trait correlation matrix.
 
 
 
